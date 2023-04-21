@@ -4,7 +4,7 @@ db_magnet is a code that verifies whether the database service is operating at a
 # Prerequisite
 You need to receive an API key at https://www.criminalip.io in order to use db_magnet.
 
-Since it is currently a beta service, all you have to do is to create a free beta account and find API key that is assigned to your account at https://www.criminalip.io/mypage/information
+Although they've recently launched paid plans, you can also create a free account and find an API key that is assigned to your account at https://www.criminalip.io/mypage/information.
 
 
 # Installation  
